@@ -1,0 +1,16 @@
+Django>=1.8,<1.9
+mysql-python
+pytils>=0.2.3
+sorl-thumbnail
+git+https://github.com/hovel/django-pure-pagination.git#egg=django_pure_pagination
+pybbm
+django-simple-captcha
+pillow
+pinax-theme-bootstrap>=4.0,<6.0
+django-user-accounts>=1.0b14
+boto
+django-ses
+django-storages
+gunicorn
+python-dateutil<2.0
+bbcode
